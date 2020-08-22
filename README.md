@@ -6,7 +6,7 @@ cookie------>session(圖片檔裡已附上註解)
 
 步驟二。設定好初始的首頁，遊客為guest
 ![Alt text](https://github.com/shoubye/Homework0823/blob/master/session/%E9%A6%96%E9%A0%81.png)
-<br>
+
 步驟三。登入時的判斷，輸入帳號為:9453
 ![Alt text](https://github.com/shoubye/Homework0823/blob/master/session/%E7%99%BB%E5%85%A5%E5%B8%B3%E8%99%9F9453.png)
 
